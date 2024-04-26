@@ -1,6 +1,6 @@
 # Coursera-Course-Recommendation-System
 
-A course recommendation system using the Coursera Courses dataset which contains over 3,000 courses. 
+A course recommendation system using the  Courses dataset which contains over 3,000 courses. 
 
 The model has been trained using a dataset of 3,000 courses! Find the dataset [here 🔗](https://www.kaggle.com/khusheekapoor/coursera-courses-dataset-2021)
 
